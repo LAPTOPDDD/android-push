@@ -2,7 +2,7 @@ package com.example.notifreader
 
 import android.content.Context
 import android.content.Intent
-import androidx.localbroadcastmanager.local.LocalBroadcastManager
+import androidx.localbroadcastmanager.content.LocalBroadcastManager
 
 object NotifStore {
     const val ACTION_NEW_NOTIF = "com.example.notifreader.NEW_NOTIF"
