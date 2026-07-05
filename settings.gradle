@@ -1,0 +1,2 @@
+rootProject.name = "NotifReader"
+include ':app'

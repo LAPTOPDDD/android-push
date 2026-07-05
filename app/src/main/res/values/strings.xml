@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotifReader</string>
+    <string name="grant_access">Дать доступ к уведомлениям</string>
+    <string name="no_notifications">Пока нет перехваченных уведомлений</string>
+</resources>
